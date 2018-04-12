@@ -1,0 +1,31 @@
+body {
+  font-family: "Shadows Into Light", cursive;
+  background-color: #f5ca0c;
+}
+
+.slabo {
+  font-family: "Slabo 27px", serif;
+}
+
+.answer {
+  color: #fff;
+}
+
+.hero-img {
+  width: 500px;
+  margin: 25px 0;
+}
+
+input {
+  font-size: 30px;
+}
+
+button,
+.submit-button {
+  font-size: 24px;
+  padding: 5px 15px;
+}
+
+#output {
+  font-size: 40px;
+}
